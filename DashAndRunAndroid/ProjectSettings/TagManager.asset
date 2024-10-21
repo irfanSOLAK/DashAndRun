@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SpawnPoint
+  - SceneController
+  - CharacterEffects
+  - PlayerGround
+  - InputCanvas
+  - SpawnPointsParent
+  - PlayerSideGround
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Player
+  - NoJump
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: SkyBackground
+    uniqueID: 750521813
+    locked: 0
+  - name: Platform
+    uniqueID: 508995755
+    locked: 0
+  - name: Decorative
+    uniqueID: 2232608161
+    locked: 0
+  - name: FunctionalDecoratives
+    uniqueID: 329058567
+    locked: 0
+  - name: Traps
+    uniqueID: 1039274349
+    locked: 0
+  - name: Player
+    uniqueID: 89349191
+    locked: 0
+  - name: AllCanvas
+    uniqueID: 2107152095
+    locked: 0

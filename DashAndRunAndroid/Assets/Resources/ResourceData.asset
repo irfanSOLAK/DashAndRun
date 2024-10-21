@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00e591c6f5ee94e49b7b01a703548d55, type: 3}
+  m_Name: ResourceData
+  m_EditorClassIdentifier: 
+  prefabs:
+  - id: 3430
+    prefab: {fileID: 7053514829931278275, guid: 9f0fe51bd15a82d44bdfa7b768e590c9, type: 3}
+    description: For All Canvas
+  - id: 94250
+    prefab: {fileID: 3563674873777792578, guid: be5dae5156328da4f9eff48ff9069bc0, type: 3}
+    description: Background object
+  - id: 13245
+    prefab: {fileID: 771217058568229614, guid: df37d947e8800874eb2b8d73e6a4a29b, type: 3}
+    description: Main Cam
+  - id: 10515
+    prefab: {fileID: 2257297886509853244, guid: 5fa764b4daddc7c49a9808080c72788d, type: 3}
+    description: Everything for scene
+  - id: 25635
+    prefab: {fileID: 1340578106528321346, guid: 7f0c31dbc0c829e43bd8f5d365931068, type: 3}
+    description: Show when game end
+  - id: 43286
+    prefab: {fileID: 2739999032299216491, guid: 92c20dc4799a23142a159cf802f3a6c2, type: 3}
+    description: Hearts
+  - id: 25558
+    prefab: {fileID: 1607418951737572445, guid: 014a697ce981d724ba64c2699b84bedb, type: 3}
+    description: Mute Home options
